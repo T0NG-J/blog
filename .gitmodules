@@ -1,0 +1,6 @@
+[submodule "tonggyblog/themes/hello-friend"]
+	path = tonggyblog/themes/hello-friend
+	url = https://github.com/panr/hugo-theme-hello-friend.git
+[submodule "tonggyblog/public"]
+	path = tonggyblog/public
+	url = https://github.com/T0NG-J/T0NG-J.github.io.git
