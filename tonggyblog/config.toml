@@ -27,12 +27,12 @@ paginate = 5
 
 [languages]
   [languages.en]
-    title = "Hello Friend"
-    subtitle = "A simple theme for Hugo"
-    keywords = ""
+    title = "3cat's blog"
+    subtitle = ""
+    keywords = "Hack The Box write-up"
     copyright = ""
     menuMore = "Show more"
-    writtenBy = "Written by"
+    writtenBy = "3cat"
     readMore = "Read more"
     readOtherPosts = "Read other posts"
     newerPosts = "Newer posts"
@@ -44,12 +44,12 @@ paginate = 5
     # lastModDisplay = ""
 
     [languages.en.params.logo]
-      logoText = "hello friend"
+      logoText = "3cat@blog:~$"
       logoHomeLink = "/"
     # or
     #
-    # path = "/img/your-example-logo.svg"
-    # alt = "Your example logo alt text"
+      #path = "https://c.tenor.com/Mfw-y4gYsIkAAAAC/hacker-hamster.gif"
+      #alt = "3cat@blog:~$"
 
     [languages.en.menu]
       [[languages.en.menu.main]]

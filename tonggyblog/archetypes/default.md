@@ -1,6 +1,11 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-draft: true
+author: 
+cover: ""
+tags: ["Hackthebox", "Write-up"]
+description: " "
+showFullContent: false
+hideComments: false
 ---
 
